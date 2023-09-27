@@ -18,7 +18,7 @@
 # In[298]:
 
 
-get_ipython().system('pip install statsmodels')
+# get_ipython().system('pip install statsmodels')
 
 
 # In[297]:
