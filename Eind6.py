@@ -18,7 +18,7 @@
 # In[1]:
 
 
-# pip install statsmodels
+! pip install statsmodels
 
 
 # In[297]:
